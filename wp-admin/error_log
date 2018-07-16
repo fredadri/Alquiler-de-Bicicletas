@@ -1,0 +1,7 @@
+[16-Jul-2018 13:12:07 UTC] Error Unknown column 'wp_tp' in 'field list' de la base de datos de WordPress para la consulta SELECT wp_tp
+[16-Jul-2018 13:21:51 UTC] PHP Warning:  copy() expects parameter 1 to be a valid path, object given in /home/capecmca/public_html/utpl/wp-content/plugins/ultimate-member/includes/admin/class-admin.php on line 174
+[16-Jul-2018 13:21:51 UTC] PHP Warning:  unlink() expects parameter 1 to be a valid path, object given in /home/capecmca/public_html/utpl/wp-content/plugins/ultimate-member/includes/admin/class-admin.php on line 175
+[16-Jul-2018 13:21:52 UTC] PHP Warning:  copy() expects parameter 1 to be a valid path, object given in /home/capecmca/public_html/utpl/wp-content/plugins/ultimate-member/includes/admin/class-admin.php on line 178
+[16-Jul-2018 13:21:52 UTC] PHP Warning:  unlink() expects parameter 1 to be a valid path, object given in /home/capecmca/public_html/utpl/wp-content/plugins/ultimate-member/includes/admin/class-admin.php on line 179
+[16-Jul-2018 13:30:08 UTC] PHP Warning:  sprintf(): Too few arguments in /home/capecmca/public_html/utpl/wp-admin/includes/class-bulk-upgrader-skin.php on line 150
+[16-Jul-2018 13:30:09 UTC] PHP Warning:  sprintf(): Too few arguments in /home/capecmca/public_html/utpl/wp-admin/includes/class-bulk-upgrader-skin.php on line 150
