@@ -5,3 +5,4 @@
 [16-Jul-2018 13:21:52 UTC] PHP Warning:  unlink() expects parameter 1 to be a valid path, object given in /home/capecmca/public_html/utpl/wp-content/plugins/ultimate-member/includes/admin/class-admin.php on line 179
 [16-Jul-2018 13:30:08 UTC] PHP Warning:  sprintf(): Too few arguments in /home/capecmca/public_html/utpl/wp-admin/includes/class-bulk-upgrader-skin.php on line 150
 [16-Jul-2018 13:30:09 UTC] PHP Warning:  sprintf(): Too few arguments in /home/capecmca/public_html/utpl/wp-admin/includes/class-bulk-upgrader-skin.php on line 150
+[16-Jul-2018 13:54:46 UTC] PHP Warning:  file_get_contents(/home/capecmca/public_html/utpl/.gitignore): failed to open stream: No such file or directory in /home/capecmca/public_html/utpl/wp-content/plugins/gitium/inc/class-git-wrapper.php on line 631
